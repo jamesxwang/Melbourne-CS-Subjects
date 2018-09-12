@@ -1,0 +1,9 @@
+#ignore textbooks
+textbooks/
+
+#COMP90015 reports
+COMP90015-project-1.pdf
+COMP90015 Distributed Systems.docx
+
+#COMP90044 references
+References/
