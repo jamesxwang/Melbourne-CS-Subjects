@@ -11,3 +11,4 @@ Coursework in Melbourne University
 2019 Semester 1
 --
 + [COMP90048](https://handbook.unimelb.edu.au/2019/subjects/comp90048?_blank) Declarative Programming
++ [COMP90024](https://handbook.unimelb.edu.au/2019/subjects/comp90024?_blank) Cluster and Cloud Computing
