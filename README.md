@@ -13,3 +13,8 @@ Coursework in Melbourne University
 + [COMP90048](https://handbook.unimelb.edu.au/2019/subjects/comp90048?_blank) Declarative Programming
 + [COMP90024](https://handbook.unimelb.edu.au/2019/subjects/comp90024?_blank) Cluster and Cloud Computing
 + [COMP90024](https://handbook.unimelb.edu.au/2019/subjects/comp90050?_blank) Advanced Database Systems
+
+2019 Semester 2
+--
++ [COMP90018](https://handbook.unimelb.edu.au/2019/subjects/comp90018?_blank) Mobile Computing Systems Programming
++ [SWEN90016](https://handbook.unimelb.edu.au/2019/subjects/swen90016?_blank) Software Processes and Management
