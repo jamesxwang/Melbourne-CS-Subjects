@@ -17,4 +17,5 @@ Coursework in Melbourne University
 2019 Semester 2
 --
 + [COMP90018](https://handbook.unimelb.edu.au/2019/subjects/comp90018?_blank) Mobile Computing Systems Programming
++ [COMP90025](https://handbook.unimelb.edu.au/2019/subjects/comp90025?_blank) Parallel and Multicore Computing
 + [SWEN90016](https://handbook.unimelb.edu.au/2019/subjects/swen90016?_blank) Software Processes and Management
