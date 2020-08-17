@@ -19,3 +19,7 @@ Coursework in Melbourne University
 + [COMP90018](https://handbook.unimelb.edu.au/2019/subjects/comp90018?_blank) Mobile Computing Systems Programming
 + [COMP90025](https://handbook.unimelb.edu.au/2019/subjects/comp90025?_blank) Parallel and Multicore Computing
 + [SWEN90016](https://handbook.unimelb.edu.au/2019/subjects/swen90016?_blank) Software Processes and Management
+
+2020 Semester 1
+--
++ [COMP90059](https://handbook.unimelb.edu.au/2020/subjects/comp90059?_blank) Introduction to Programming (Python)
