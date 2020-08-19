@@ -13,7 +13,7 @@ Coursework in Melbourne University
 
 - [COMP90048](https://handbook.unimelb.edu.au/2019/subjects/comp90048?_blank) Declarative Programming
 - [COMP90024](https://handbook.unimelb.edu.au/2019/subjects/comp90024?_blank) Cluster and Cloud Computing
-- [COMP90024](https://handbook.unimelb.edu.au/2019/subjects/comp90050?_blank) Advanced Database Systems
+- [COMP90050](https://handbook.unimelb.edu.au/2019/subjects/comp90050?_blank) Advanced Database Systems
 
 ## 2019 Semester 2
 
